@@ -13,7 +13,8 @@ DAX Measures: Custom calculations for performance metrics, averages, and trends.
 
 
 Screenshots
-<img width="684" height="382" alt="Screenshot 2025-10-31 201455" src="https://github.com/user-attachments/assets/e5ba395d-b502-47b3-94f5-c1be5e0dd495" />
+
+<img width="1336" height="724" alt="image" src="https://github.com/user-attachments/assets/5a294946-e9be-4f5f-ade5-42c765ece824" />
 <img width="1347" height="758" alt="image" src="https://github.com/user-attachments/assets/daccfd89-b0a8-4a04-b75b-76d32291f26c" />
 
 
