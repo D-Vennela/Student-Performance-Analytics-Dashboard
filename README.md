@@ -14,7 +14,7 @@ DAX Measures: Custom calculations for performance metrics, averages, and trends.
 
 Screenshots
 <img width="684" height="382" alt="Screenshot 2025-10-31 201455" src="https://github.com/user-attachments/assets/e5ba395d-b502-47b3-94f5-c1be5e0dd495" />
-<img width="275" height="171" alt="Screenshot 2025-10-31 201601" src="https://github.com/user-attachments/assets/8a33966e-54c3-44b4-9263-2a1bfa0ce61d" />
+<img width="1347" height="758" alt="image" src="https://github.com/user-attachments/assets/daccfd89-b0a8-4a04-b75b-76d32291f26c" />
 
 
 Tech Stack
@@ -34,4 +34,4 @@ Project Context
 Created for BTech Computer Science coursework/portfolio.​
 
 Contact
-Vennela Devanapalli | LinkedIn: https://www.linkedin.com/in/vennela-devanapalli | venneladevanapalligmail.com
+Vennela Devanapalli | LinkedIn: https://www.linkedin.com/in/vennela-devanapalli | venneladevanapalli@gmail.com
